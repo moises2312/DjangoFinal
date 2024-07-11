@@ -1,0 +1,13 @@
+
+
+.nosotros h2
+
+
+.col {
+  padding: 0 0.75rem;
+  margin-bottom: 1.5rem;
+  flex: 1 1 10%; /* Las tarjetas abarcan todo el ancho */
+}
+
+
+
